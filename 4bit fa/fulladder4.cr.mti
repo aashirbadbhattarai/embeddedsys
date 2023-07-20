@@ -1,0 +1,15 @@
+{D:/embedded system/4bit fa/fa.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/4bit fa/fa.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fa4
+-- Compiling architecture addr of fa4
+
+} {} {}} {D:/embedded system/4bit fa/fulladder.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/4bit fa/fulladder.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+-- Compiling architecture adder of fulladder
+
+} {} {}}

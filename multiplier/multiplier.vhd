@@ -1,0 +1,38 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity aashirbad_mul is
+  port(
+    A0, A1, B0, B1 : in bit;
+    P0, P1, P2, P3 : out bit
+  );
+end aashirbad_mul;
+
+architecture mul_aashirbad of aashirbad_mul is
+
+component mul_and is
+  port(
+    C, D : in bit;
+    E : out bit
+  );
+end component;
+
+component mul_ha is
+  port(
+    M, N : in bit;
+    O, P : out bit
+  );
+end component;
+
+signal S1, S2, S3, S4 : bit;
+
+begin
+  X1: mul_and port map(A0, B0, P0);
+  X2 : mul_and port map(A1, B0, S1);
+  X3 : mul_and port map(A0, B1, S2);
+  X4 : mul_and port map(A1, B1, S4);
+  
+  X5 : mul_ha port map(S1, S2, P1, S3);
+  X6 : mul_ha port map(S3, S4, P2, P3);
+  
+end mul_aashirbad;

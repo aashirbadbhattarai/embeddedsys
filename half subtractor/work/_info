@@ -1,0 +1,229 @@
+m255
+K3
+13
+cModel Technology
+dD:\embedded system\full adder
+Eaashirbad_fs
+Z0 !s101 -O0 -O0 -O0 -O0
+Z1 w1689846423
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 dD:\embedded system\half subtractor
+Z4 8D:/embedded system/half subtractor/half_subtractor.vhd
+Z5 FD:/embedded system/half subtractor/half_subtractor.vhd
+l0
+L4
+VnZV7M[7N:CM_YIcmPTI9`1
+Z6 OV;C;6.4a;39
+Z7 !s101 -O0 -O0 -O0 -O0
+32
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+!s100 BUFK6OHjHDn`TkLAFb^0?1
+Afs_aashirbad
+R2
+DEx4 work 12 aashirbad_fs 0 22 nZV7M[7N:CM_YIcmPTI9`1
+l42
+L11
+V1k0k7fJ1:g`RK37n<bDR=1
+R6
+32
+Z10 Mx1 4 ieee 14 std_logic_1164
+R8
+R9
+!s100 UDTY?ggKlkf[ZDB8J^h2O2
+Eaashirbad_hs
+R7
+Z11 w1689845784
+R2
+R3
+R4
+R5
+l0
+L4
+V1Vhh?fboX?@Ez9QcBc2Ma2
+R6
+R7
+32
+R8
+R9
+!s100 ^YQd1EcHhF^5mm8^QJL403
+Ahs_aashirbad
+R2
+DEx4 work 12 aashirbad_hs 0 22 1Vhh?fboX?@Ez9QcBc2Ma2
+l35
+L11
+V4W;M5`fV]FV:XWEVNi^Hh0
+R6
+32
+R10
+R8
+R9
+!s100 O5L@flCIj8diN^GdB`24S1
+Efs_and
+R7
+Z12 w1689846442
+R2
+R3
+Z13 8D:/embedded system/half subtractor/hs_and.vhd
+Z14 FD:/embedded system/half subtractor/hs_and.vhd
+l0
+L4
+Vdo_mT9N;;>RkL:QKl]gYa1
+R6
+R7
+32
+R8
+R9
+!s100 U7Q:IZokUU@SRT5YEd_8B0
+Aand_fs
+R2
+DEx4 work 6 fs_and 0 22 do_mT9N;;>RkL:QKl]gYa1
+l12
+L11
+VP;ZVh]BIUoY?A=UHRV?Z90
+R6
+32
+R10
+R8
+R9
+!s100 P9Q3K7I7dRbBL36TBT=AI3
+Efs_or
+R7
+Z15 w1689846256
+R2
+R3
+Z16 8D:/embedded system/half subtractor/fs_or.vhd
+Z17 FD:/embedded system/half subtractor/fs_or.vhd
+l0
+L4
+V=h>eOTOd;?z8`jDQg=kiz3
+!s100 OV]Ea^A0LhDzKT58OALDX3
+R6
+R7
+32
+R8
+R9
+Aor_fs
+R2
+Z18 DEx4 work 5 fs_or 0 22 =h>eOTOd;?z8`jDQg=kiz3
+l12
+L11
+Z19 V:2hJC^fM@I8e[ih3FWM?W2
+Z20 !s100 LU11T2FZHOPkC]FhEKMUQ2
+R6
+32
+R10
+R8
+R9
+Efs_xor
+R7
+Z21 w1689846170
+R2
+R3
+Z22 8D:/embedded system/half subtractor/hs_xor.vhd
+Z23 FD:/embedded system/half subtractor/hs_xor.vhd
+l0
+L4
+V6O8;g_nM<0CD1YNQL[Nn91
+R6
+R7
+32
+R8
+R9
+!s100 DKCFJ:3E9kGMVecC8zN`?0
+Axor_hs
+R2
+DEx4 work 6 fs_xor 0 22 6O8;g_nM<0CD1YNQL[Nn91
+l12
+L11
+VI^KaG?Yd96c@zW1kQ1=VR2
+R6
+32
+R10
+R8
+R9
+!s100 Kl0AdN06;6;<:3c]_?NVR3
+Ehs_and
+R7
+Z24 w1689845716
+R2
+R3
+R13
+R14
+l0
+L4
+Voa?zhKNQ6??M17BBjO>4[1
+R6
+R7
+32
+R8
+R9
+!s100 g_M]^^XX805?26R2`:g2z3
+Aand_hs
+R2
+DEx4 work 6 hs_and 0 22 oa?zhKNQ6??M17BBjO>4[1
+l12
+L11
+V6d<Ba;<R@ISAO1aZ@Dk540
+R6
+32
+R10
+R8
+R9
+!s100 zI4TRk_SV[XBCln:o1z=^2
+Ehs_not
+R7
+Z25 w1689845625
+R2
+R3
+Z26 8D:/embedded system/half subtractor/hs_not.vhd
+Z27 FD:/embedded system/half subtractor/hs_not.vhd
+l0
+L4
+VY0lO;]fDQ<5k>oEmeLJRd0
+R6
+R7
+32
+R8
+R9
+!s100 eQUO6@J?HSH<lK>Y<X`UA0
+Anot_hs
+R2
+DEx4 work 6 hs_not 0 22 Y0lO;]fDQ<5k>oEmeLJRd0
+l12
+L11
+V^hiPYJ8z1_KkKG@bj@`HS2
+R6
+32
+R10
+R8
+R9
+!s100 ZS4[Bi3d0=d4>^HmPUMZ=1
+Ehs_xor
+R7
+Z28 w1689845667
+R2
+R3
+R22
+R23
+l0
+L4
+V?L7BWfNiWC0m[L5azM=DA0
+R6
+R7
+32
+R8
+R9
+!s100 T@Jm`jfDI`99;H[o1KdVa3
+Axor_hs
+R2
+DEx4 work 6 hs_xor 0 22 ?L7BWfNiWC0m[L5azM=DA0
+l12
+L11
+V>>WG2XdbPC9mQKlKQK<fP0
+R6
+32
+R10
+R8
+R9
+!s100 O4`F<F7PUD[iZX[7M4A<M0

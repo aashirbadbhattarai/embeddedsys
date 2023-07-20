@@ -1,0 +1,39 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity aashirbad_hs is
+  port(
+    A, B : in bit;
+    difference, borrow : out bit
+  );
+end aashirbad_hs;
+
+architecture hs_aashirbad of aashirbad_hs is
+signal S : bit;
+
+component hs_xor is
+  port(
+    E, F : in bit;
+    G : out bit
+  );
+end component;
+
+component hs_not is
+  port(
+    H : in bit;
+    I : out bit
+  );
+end component;
+
+component hs_and is
+  port(
+    X, Y : in bit;
+    Z : out bit
+  );
+end component;
+
+begin
+  X1 : hs_xor port map(A, B, difference);
+  X2 : hs_not port map(A, S);
+  X3 : hs_and port map(S, B, borrow);
+end hs_aashirbad;

@@ -1,0 +1,89 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\90\modelsim_ase\examples
+Eaashirbad_ha
+Z0 !s101 -O0 -O0 -O0 -O0
+Z1 w1689840685
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 dD:\embedded system
+Z4 8D:/embedded system/half_adder.vhd
+Z5 FD:/embedded system/half_adder.vhd
+l0
+L4
+VC8Dc0mTGhQUc>X^@_6^Ph2
+Z6 OV;C;6.4a;39
+Z7 !s101 -O0 -O0 -O0 -O0
+32
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+!s100 nfPBlHIVXURCb^Iho[Ilm2
+Aha_aashirbad
+R2
+DEx4 work 12 aashirbad_ha 0 22 C8Dc0mTGhQUc>X^@_6^Ph2
+l25
+L11
+V8zdb5WQ4zCA]N7PY`M^_b0
+R6
+32
+Z10 Mx1 4 ieee 14 std_logic_1164
+R8
+R9
+!s100 HHcDA1k<mI]WWXNg>AnGa2
+Eh_and
+R7
+Z11 w1689840638
+R2
+R3
+Z12 8D:/embedded system/h_and.vhd
+Z13 FD:/embedded system/h_and.vhd
+l0
+L4
+V7@lMY[i8V;X1d[89P>5Rg0
+!s100 MAVNi46A@gV>P>jGPCWCO2
+R6
+R7
+32
+R8
+R9
+Aand_h
+R2
+Z14 DEx4 work 5 h_and 0 22 7@lMY[i8V;X1d[89P>5Rg0
+l12
+L11
+Z15 VSfXB?Y6bfO_e_SII@ZiTQ0
+Z16 !s100 ^RZUIfmCk8I3czY1`@0[Q0
+R6
+32
+R10
+R8
+R9
+Eh_xor
+R7
+Z17 w1689840668
+R2
+R3
+Z18 8D:/embedded system/h_xor.vhd
+Z19 FD:/embedded system/h_xor.vhd
+l0
+L4
+VCjlR?kUZg;OY1XJLF3TOZ0
+R6
+R7
+32
+R8
+R9
+!s100 jNPc]kh>DloacMWEAFo851
+Axor_h
+R2
+DEx4 work 5 h_xor 0 22 CjlR?kUZg;OY1XJLF3TOZ0
+l12
+L11
+VWlZ[bMmgCE4mh78T?A;oh1
+!s100 aSY^HU=1oA2m5M9;Xa2fj1
+R6
+32
+R10
+R8
+R9

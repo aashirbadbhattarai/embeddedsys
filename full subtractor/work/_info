@@ -1,0 +1,61 @@
+m255
+K3
+13
+cModel Technology
+dD:\embedded system\half subtractor
+Eaashirbad_fs
+Z0 !s101 -O0 -O0 -O0 -O0
+Z1 w1689846892
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 dD:\embedded system\full subtractor
+Z4 8D:/embedded system/full subtractor/full_subtractor.vhd
+Z5 FD:/embedded system/full subtractor/full_subtractor.vhd
+l0
+L5
+VOH^YI8?;<8=8kL30b3^l]3
+!s100 cD?16ET260n9JhXW@XHZ<0
+Z6 OV;C;6.4a;39
+Z7 !s101 -O0 -O0 -O0 -O0
+32
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+Afs_aashirbad
+R2
+DEx4 work 12 aashirbad_fs 0 22 OH^YI8?;<8=8kL30b3^l]3
+l14
+L13
+V8S1m8DB`Kmc@>^Ro_CBcU1
+!s100 h918SB_iF[;HgfldNW5zz1
+R6
+32
+Z10 Mx1 4 ieee 14 std_logic_1164
+R8
+R9
+Efull_subtractor
+R7
+Z11 w1689846810
+R2
+R3
+R4
+R5
+l0
+L5
+VWE`IKCReAJ?7KVDB;MNh60
+R6
+R7
+32
+R8
+R9
+!s100 HFha?nOFX72Xfb0GznaBD3
+Abehavioral
+R2
+DEx4 work 15 full_subtractor 0 22 WE`IKCReAJ?7KVDB;MNh60
+l14
+L13
+Vm3OOzUKb=GW7Jm1EgShBz3
+R6
+32
+R10
+R8
+R9
+!s100 UDk8ZD5lfLG1:RloQZBdh1

@@ -1,0 +1,22 @@
+{D:/embedded system/multiplier/multiplier.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/multiplier/multiplier.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity aashirbad_mul
+-- Compiling architecture mul_aashirbad of aashirbad_mul
+
+} {} {}} {D:/embedded system/multiplier/mul_and.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/multiplier/mul_and.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mul_and
+-- Compiling architecture and_mul of mul_and
+
+} {} {}} {D:/embedded system/multiplier/mul_ha.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/multiplier/mul_ha.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mul_ha
+-- Compiling architecture ha_mul of mul_ha
+
+} {} {}}

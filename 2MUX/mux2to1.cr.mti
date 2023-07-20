@@ -1,0 +1,29 @@
+{D:/embedded system/2MUX/mux_or.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/2MUX/mux_or.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_or
+-- Compiling architecture or_mux of mux_or
+
+} {} {}} {D:/embedded system/2MUX/mux_not.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/2MUX/mux_not.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_not
+-- Compiling architecture not_mux of mux_not
+
+} {} {}} {D:/embedded system/2MUX/mux2to1.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/2MUX/mux2to1.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1
+-- Compiling architecture aashirbad_mux of mux2to1
+
+} {} {}} {D:/embedded system/2MUX/mux_and.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/2MUX/mux_and.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_and
+-- Compiling architecture and_mux of mux_and
+
+} {} {}}

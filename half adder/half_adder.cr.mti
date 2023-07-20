@@ -1,0 +1,22 @@
+{D:/embedded system/h_and.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/h_and.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity h_and
+-- Compiling architecture and_h of h_and
+
+} {} {}} {D:/embedded system/half_adder.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/half_adder.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity aashirbad_ha
+-- Compiling architecture ha_aashirbad of aashirbad_ha
+
+} {} {}} {D:/embedded system/h_xor.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/h_xor.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity h_xor
+-- Compiling architecture xor_h of h_xor
+
+} {} {}}

@@ -1,0 +1,21 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+-- Full Subtractor Entity
+entity Full_Subtractor is
+    Port (
+        A, B, Borrow_In : in  std_logic;
+        Difference, Borrow_Out : out std_logic
+    );
+end entity Full_Subtractor;
+
+-- Full Subtractor Architecture
+architecture Behavioral of Full_Subtractor is
+begin
+    -- Difference output logic
+    Difference <= (A xor B) xor Borrow_In;
+
+    -- Borrow-Out output logic
+    Borrow_Out <= (not A and B) or (Borrow_In and (A xor B));
+end architecture Behavioral;
+

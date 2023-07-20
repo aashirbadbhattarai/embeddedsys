@@ -1,0 +1,36 @@
+{D:/embedded system/half subtractor/hs_xor.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/half subtractor/hs_xor.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fs_xor
+-- Compiling architecture xor_hs of fs_xor
+
+} {} {}} {D:/embedded system/half subtractor/half_subtractor.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/half subtractor/half_subtractor.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity aashirbad_fs
+-- Compiling architecture fs_aashirbad of aashirbad_fs
+
+} {} {}} {D:/embedded system/half subtractor/hs_not.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/half subtractor/hs_not.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity hs_not
+-- Compiling architecture not_hs of hs_not
+
+} {} {}} {D:/embedded system/half subtractor/fs_or.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/half subtractor/fs_or.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fs_or
+-- Compiling architecture or_fs of fs_or
+
+} {} {}} {D:/embedded system/half subtractor/hs_and.vhd} {1 {vcom -work work -2002 -explicit {D:/embedded system/half subtractor/hs_and.vhd}
+Model Technology ModelSim ALTERA vcom 6.4a Compiler 2008.08 Oct 22 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fs_and
+-- Compiling architecture and_fs of fs_and
+
+} {} {}}

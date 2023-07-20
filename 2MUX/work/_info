@@ -1,0 +1,117 @@
+m255
+K3
+13
+cModel Technology
+dD:\embedded system\multiplier
+Emux2to1
+Z0 !s101 -O0 -O0 -O0 -O0
+Z1 w1689866124
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 dD:\embedded system\2MUX
+Z4 8D:/embedded system/2MUX/mux2to1.vhd
+Z5 FD:/embedded system/2MUX/mux2to1.vhd
+l0
+L4
+VG_0_z<LLX6H]`N<c`Ub@B0
+Z6 OV;C;6.4a;39
+Z7 !s101 -O0 -O0 -O0 -O0
+32
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+!s100 TH34Ck;Wg>=6O_4Fzoa6A1
+Aaashirbad_mux
+R2
+DEx4 work 7 mux2to1 0 22 G_0_z<LLX6H]`N<c`Ub@B0
+l35
+L11
+VN5bm3Eg^?10NzNG0zjmDg0
+R6
+32
+Z10 Mx1 4 ieee 14 std_logic_1164
+R8
+R9
+!s100 AgFoVEhlhH7<OLFJ<Hl4`0
+Emux_and
+R7
+Z11 w1689865937
+R2
+R3
+Z12 8D:/embedded system/2MUX/mux_and.vhd
+Z13 FD:/embedded system/2MUX/mux_and.vhd
+l0
+L4
+VTz9C<AF;]XXG6b0R<R1[A2
+R6
+R7
+32
+R8
+R9
+!s100 _b]T4zABOBa:jziC:CkZm1
+Aand_mux
+R2
+DEx4 work 7 mux_and 0 22 Tz9C<AF;]XXG6b0R<R1[A2
+l12
+L11
+Vz5R:231@CUIWh?D>DQ[4b2
+R6
+32
+R10
+R8
+R9
+!s100 ;G3lLjzh[J4[9BPmzR>:Z0
+Emux_not
+R7
+Z14 w1689866076
+R2
+R3
+Z15 8D:/embedded system/2MUX/mux_not.vhd
+Z16 FD:/embedded system/2MUX/mux_not.vhd
+l0
+L4
+VhZYl9o;?`?>D7ZA`>_hmQ3
+!s100 UjeU0G@`CVjfSKFj5nXCS2
+R6
+R7
+32
+R8
+R9
+Anot_mux
+R2
+Z17 DEx4 work 7 mux_not 0 22 hZYl9o;?`?>D7ZA`>_hmQ3
+l12
+L11
+Z18 Vc0BZc0gm=OCh8b:Q]<_9P2
+Z19 !s100 =Z?dh<mE9:94feHT4e8=72
+R6
+32
+R10
+R8
+R9
+Emux_or
+R7
+Z20 w1689866010
+R2
+R3
+Z21 8D:/embedded system/2MUX/mux_or.vhd
+Z22 FD:/embedded system/2MUX/mux_or.vhd
+l0
+L4
+VP8jHDZ18XYdWE`mWC7Pml3
+R6
+R7
+32
+R8
+R9
+!s100 S@Da4Bg9i3C9MOA`^Z^SD3
+Aor_mux
+R2
+DEx4 work 6 mux_or 0 22 P8jHDZ18XYdWE`mWC7Pml3
+l12
+L11
+VS0m[j6TfAV5=:lh<=@XL63
+!s100 c0oG9VT1>GOdW35UnH?gH2
+R6
+32
+R10
+R8
+R9
